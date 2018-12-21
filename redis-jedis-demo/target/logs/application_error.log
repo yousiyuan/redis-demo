@@ -1,0 +1,202 @@
+2018-12-20 05:37:28.180 ERROR com.redis.jedis.demo.test.RedisDemoTest7 61 expireTest 
+OK
+2018-12-20 05:37:28.181 ERROR com.redis.jedis.demo.test.RedisDemoTest7 65 expireTest 
+1
+2018-12-20 05:37:28.182 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+15
+2018-12-20 05:37:29.186 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+14
+2018-12-20 05:37:30.189 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+13
+2018-12-20 05:37:31.193 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+12
+2018-12-20 05:37:32.197 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+11
+2018-12-20 05:37:33.200 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+10
+2018-12-20 05:37:34.203 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+9
+2018-12-20 05:37:35.207 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+8
+2018-12-20 05:37:36.210 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+7
+2018-12-20 05:37:37.213 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+6
+2018-12-20 05:37:38.216 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+5
+2018-12-20 05:37:39.220 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+4
+2018-12-20 05:37:40.223 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+3
+2018-12-20 05:37:41.227 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+2
+2018-12-20 05:37:42.229 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+1
+2018-12-20 05:37:43.232 ERROR com.redis.jedis.demo.test.RedisDemoTest7 73 expireTest 
+key name is expire
+2018-12-20 05:39:03.516 ERROR com.redis.jedis.demo.test.RedisDemoTest7 61 expireTest 
+OK
+2018-12-20 05:39:03.519 ERROR com.redis.jedis.demo.test.RedisDemoTest7 65 expireTest 
+1
+2018-12-20 05:39:03.520 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+15
+2018-12-20 05:39:04.422 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+14
+2018-12-20 05:39:05.326 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+13
+2018-12-20 05:39:06.230 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+12
+2018-12-20 05:39:07.134 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+11
+2018-12-20 05:39:08.038 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+10
+2018-12-20 05:39:08.941 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+10
+2018-12-20 05:39:09.847 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+9
+2018-12-20 05:39:10.752 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+8
+2018-12-20 05:39:11.653 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+7
+2018-12-20 05:39:12.554 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+6
+2018-12-20 05:39:13.457 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+5
+2018-12-20 05:39:14.359 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+4
+2018-12-20 05:39:15.262 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+3
+2018-12-20 05:39:16.166 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+2
+2018-12-20 05:39:17.069 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+1
+2018-12-20 05:39:17.972 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+1
+2018-12-20 05:39:18.876 ERROR com.redis.jedis.demo.test.RedisDemoTest7 73 expireTest 
+key name is expire
+2018-12-20 05:41:37.942 ERROR com.redis.jedis.demo.test.RedisDemoTest7 61 expireTest 
+OK
+2018-12-20 05:41:37.943 ERROR com.redis.jedis.demo.test.RedisDemoTest7 65 expireTest 
+1
+2018-12-20 05:41:37.944 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+15
+2018-12-20 05:41:38.946 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+14
+2018-12-20 05:41:39.949 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+13
+2018-12-20 05:41:40.953 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+12
+2018-12-20 05:41:41.955 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+11
+2018-12-20 05:41:42.957 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+10
+2018-12-20 05:41:43.958 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+9
+2018-12-20 05:41:44.959 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+8
+2018-12-20 05:41:45.962 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+7
+2018-12-20 05:41:46.964 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+6
+2018-12-20 05:41:47.966 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+5
+2018-12-20 05:41:48.968 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+4
+2018-12-20 05:41:49.971 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+3
+2018-12-20 05:41:50.973 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+2
+2018-12-20 05:41:51.975 ERROR com.redis.jedis.demo.test.RedisDemoTest7 70 expireTest 
+1
+2018-12-20 05:41:52.976 ERROR com.redis.jedis.demo.test.RedisDemoTest7 74 expireTest 
+key name is expire
+2018-12-20 05:41:52.978 ERROR com.redis.jedis.demo.test.RedisDemoTest7 77 expireTest 
+null
+2018-12-20 05:55:27.456 ERROR com.redis.jedis.demo.test.RedisDemoTest7 114 existsTest 
+5
+2018-12-20 05:58:35.143 ERROR com.redis.jedis.demo.test.RedisDemoTest7 117 existsTest 
+5
+2018-12-20 05:58:35.144 ERROR com.redis.jedis.demo.test.RedisDemoTest7 120 existsTest 
+true
+2018-12-20 05:58:35.145 ERROR com.redis.jedis.demo.test.RedisDemoTest7 123 existsTest 
+false
+2018-12-20 06:02:15.690 ERROR com.redis.jedis.demo.test.RedisDemoTest7 133 delTest 
+1
+2018-12-20 06:02:15.691 ERROR com.redis.jedis.demo.test.RedisDemoTest7 136 delTest 
+1
+2018-12-20 06:02:15.691 ERROR com.redis.jedis.demo.test.RedisDemoTest7 139 delTest 
+1
+2018-12-20 06:02:25.305 ERROR com.redis.jedis.demo.test.RedisDemoTest7 133 delTest 
+0
+2018-12-20 06:02:25.306 ERROR com.redis.jedis.demo.test.RedisDemoTest7 136 delTest 
+0
+2018-12-20 06:02:25.306 ERROR com.redis.jedis.demo.test.RedisDemoTest7 139 delTest 
+0
+2018-12-20 06:06:45.048 ERROR com.redis.jedis.demo.test.RedisDemoTest7 74 keysTest 
+获取所有的键：[students, person]
+2018-12-20 06:07:07.148 ERROR com.redis.jedis.demo.test.RedisDemoTest7 145 renameTest 
+OK
+2018-12-20 06:07:20.499 ERROR com.redis.jedis.demo.test.RedisDemoTest7 74 keysTest 
+获取所有的键：[同学, person]
+2018-12-20 06:08:41.420 ERROR com.redis.jedis.demo.test.RedisDemoTest7 148 renameTest 
+OK
+2018-12-20 06:08:59.837 ERROR com.redis.jedis.demo.test.RedisDemoTest7 74 keysTest 
+获取所有的键：[students, person]
+2018-12-20 06:22:46.558 ERROR com.redis.jedis.demo.test.RedisDemoTest7 157 renameTest 
+OK
+2018-12-20 06:22:46.559 ERROR com.redis.jedis.demo.test.RedisDemoTest7 171 renameTest 
+{name=zxb, gender=1, password=mjcy@1989, age=29}
+2018-12-20 06:22:46.560 ERROR com.redis.jedis.demo.test.RedisDemoTest7 175 renameTest 
+OK
+2018-12-20 06:22:46.560 ERROR com.redis.jedis.demo.test.RedisDemoTest7 179 renameTest 
+{name=zxb, gender=1, password=mjcy@1989, age=29}
+2018-12-20 06:23:48.519 ERROR com.redis.jedis.demo.test.RedisDemoTest7 115 existsTest 
+5
+2018-12-20 06:23:48.520 ERROR com.redis.jedis.demo.test.RedisDemoTest7 118 existsTest 
+true
+2018-12-20 06:23:48.521 ERROR com.redis.jedis.demo.test.RedisDemoTest7 121 existsTest 
+false
+2018-12-20 06:23:55.979 ERROR com.redis.jedis.demo.test.RedisDemoTest7 153 renameTest 
+{stu001=67.5, stu005=88.45, stu0017=93.0}
+2018-12-20 06:23:55.980 ERROR com.redis.jedis.demo.test.RedisDemoTest7 157 renameTest 
+OK
+2018-12-20 06:23:55.983 ERROR com.redis.jedis.demo.test.RedisDemoTest7 165 renameTest 
+{stu001=67.5, stu005=88.45, stu0017=93.0}
+2018-12-20 06:23:55.985 ERROR com.redis.jedis.demo.test.RedisDemoTest7 171 renameTest 
+{name=zxb, gender=1, password=mjcy@1989, age=29}
+2018-12-20 06:23:55.985 ERROR com.redis.jedis.demo.test.RedisDemoTest7 175 renameTest 
+OK
+2018-12-20 06:23:55.986 ERROR com.redis.jedis.demo.test.RedisDemoTest7 179 renameTest 
+{name=zxb, gender=1, password=mjcy@1989, age=29}
+2018-12-20 06:24:55.107 ERROR com.redis.jedis.demo.test.RedisDemoTest7 77 keysTest 
+获取所有的键：[ren, letters, timeout, productlist]
+2018-12-20 06:35:49.541 ERROR com.redis.jedis.demo.test.RedisDemoTest7 194 typeTest 
+hash
+2018-12-20 06:35:49.542 ERROR com.redis.jedis.demo.test.RedisDemoTest7 197 typeTest 
+set
+2018-12-20 06:35:49.543 ERROR com.redis.jedis.demo.test.RedisDemoTest7 200 typeTest 
+string
+2018-12-20 06:35:49.543 ERROR com.redis.jedis.demo.test.RedisDemoTest7 203 typeTest 
+list
+2018-12-20 06:35:49.544 ERROR com.redis.jedis.demo.test.RedisDemoTest7 206 typeTest 
+none
+2018-12-20 06:35:49.544 ERROR com.redis.jedis.demo.test.RedisDemoTest7 209 typeTest 
+none
+2018-12-20 06:36:15.533 ERROR com.redis.jedis.demo.test.RedisDemoTest7 115 existsTest 
+5
+2018-12-20 06:36:15.534 ERROR com.redis.jedis.demo.test.RedisDemoTest7 118 existsTest 
+true
+2018-12-20 06:36:15.534 ERROR com.redis.jedis.demo.test.RedisDemoTest7 121 existsTest 
+false
+2018-12-20 06:36:22.114 ERROR com.redis.jedis.demo.test.RedisDemoTest7 194 typeTest 
+hash
+2018-12-20 06:36:22.115 ERROR com.redis.jedis.demo.test.RedisDemoTest7 197 typeTest 
+set
+2018-12-20 06:36:22.115 ERROR com.redis.jedis.demo.test.RedisDemoTest7 200 typeTest 
+string
+2018-12-20 06:36:22.116 ERROR com.redis.jedis.demo.test.RedisDemoTest7 203 typeTest 
+list
+2018-12-20 06:36:22.116 ERROR com.redis.jedis.demo.test.RedisDemoTest7 206 typeTest 
+zset
+2018-12-20 06:36:22.117 ERROR com.redis.jedis.demo.test.RedisDemoTest7 209 typeTest 
+hash

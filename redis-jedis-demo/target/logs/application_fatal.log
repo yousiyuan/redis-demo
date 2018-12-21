@@ -1,0 +1,82 @@
+2018-12-20 03:49:31.180 FATAL com.redis.jedis.demo.test.RedisDemoTest6 170 zrangeByScoreTest 
+[]
+2018-12-20 03:49:31.181 FATAL com.redis.jedis.demo.test.RedisDemoTest6 173 zrangeByScoreTest 
+[]
+2018-12-20 03:55:58.997 FATAL com.redis.jedis.demo.test.RedisDemoTest6 176 zrangeByScoreTest 
+[]
+2018-12-20 03:55:58.998 FATAL com.redis.jedis.demo.test.RedisDemoTest6 179 zrangeByScoreTest 
+[]
+2018-12-20 03:56:55.748 FATAL com.redis.jedis.demo.test.RedisDemoTest6 176 zrangeByScoreTest 
+[b, c]
+2018-12-20 03:56:55.749 FATAL com.redis.jedis.demo.test.RedisDemoTest6 179 zrangeByScoreTest 
+[]
+2018-12-20 03:57:38.358 FATAL com.redis.jedis.demo.test.RedisDemoTest6 141 zrangeWithScoresTest 
+{a=5.05, b=10.55, c=15.05, d=20.55, e=25.05, f=30.55, maliu=33.0, g=35.05, h=40.55, i=45.05}
+2018-12-20 03:59:11.700 FATAL com.redis.jedis.demo.test.RedisDemoTest6 83 zaddTest 
+21
+2018-12-20 03:59:45.674 FATAL com.redis.jedis.demo.test.RedisDemoTest6 176 zrangeByScoreTest 
+[k, l, m, n, o, p, q, r]
+2018-12-20 03:59:45.677 FATAL com.redis.jedis.demo.test.RedisDemoTest6 179 zrangeByScoreTest 
+[j, k, l, m, n, o, p, q, r, s]
+2018-12-20 04:04:22.170 FATAL com.redis.jedis.demo.test.RedisDemoTest6 175 zrangeByScoreTest 
+[k, l, m, n, o, p, q, r]
+2018-12-20 04:04:22.171 FATAL com.redis.jedis.demo.test.RedisDemoTest6 178 zrangeByScoreTest 
+[k, l, m, n, o, p, q, r]
+2018-12-20 04:04:22.176 FATAL com.redis.jedis.demo.test.RedisDemoTest6 185 zrangeByScoreTest 
+{k=55.05, l=60.55, m=65.05, n=70.55, o=75.05, p=80.55, q=85.05, r=90.55}
+2018-12-20 04:08:24.156 FATAL com.redis.jedis.demo.test.RedisDemoTest6 199 zrevrangeByScoreTest 
+[]
+2018-12-20 04:08:24.157 FATAL com.redis.jedis.demo.test.RedisDemoTest6 202 zrevrangeByScoreTest 
+[]
+2018-12-20 04:08:24.160 FATAL com.redis.jedis.demo.test.RedisDemoTest6 209 zrevrangeByScoreTest 
+{}
+2018-12-20 04:09:43.388 FATAL com.redis.jedis.demo.test.RedisDemoTest6 175 zrangeByScoreTest 
+[k, l, m, n, o, p, q, r]
+2018-12-20 04:09:43.389 FATAL com.redis.jedis.demo.test.RedisDemoTest6 178 zrangeByScoreTest 
+[k, l, m, n, o, p, q, r]
+2018-12-20 04:09:43.402 FATAL com.redis.jedis.demo.test.RedisDemoTest6 185 zrangeByScoreTest 
+{k=55.05, l=60.55, m=65.05, n=70.55, o=75.05, p=80.55, q=85.05, r=90.55}
+2018-12-20 04:10:56.849 FATAL com.redis.jedis.demo.test.RedisDemoTest6 199 zrevrangeByScoreTest 
+[r, q, p, o, n, m, l, k]
+2018-12-20 04:10:56.850 FATAL com.redis.jedis.demo.test.RedisDemoTest6 202 zrevrangeByScoreTest 
+[]
+2018-12-20 04:10:56.856 FATAL com.redis.jedis.demo.test.RedisDemoTest6 209 zrevrangeByScoreTest 
+{r=90.55, q=85.05, p=80.55, o=75.05, n=70.55, m=65.05, l=60.55, k=55.05}
+2018-12-20 04:11:30.130 FATAL com.redis.jedis.demo.test.RedisDemoTest6 199 zrevrangeByScoreTest 
+[r, q, p, o, n, m, l, k]
+2018-12-20 04:11:30.131 FATAL com.redis.jedis.demo.test.RedisDemoTest6 202 zrevrangeByScoreTest 
+[r, q, p, o, n, m, l, k]
+2018-12-20 04:11:30.137 FATAL com.redis.jedis.demo.test.RedisDemoTest6 209 zrevrangeByScoreTest 
+{r=90.55, q=85.05, p=80.55, o=75.05, n=70.55, m=65.05, l=60.55, k=55.05}
+2018-12-20 04:19:45.268 FATAL com.redis.jedis.demo.test.RedisDemoTest6 222 zincrbyTest 
+196.94
+2018-12-20 04:20:32.966 FATAL com.redis.jedis.demo.test.RedisDemoTest6 231 zcardTest 
+26
+2018-12-20 04:22:31.463 FATAL com.redis.jedis.demo.test.RedisDemoTest6 231 zcardTest 
+26
+2018-12-20 04:25:00.719 FATAL com.redis.jedis.demo.test.RedisDemoTest6 243 zcountTest 
+10
+2018-12-20 04:25:18.216 FATAL com.redis.jedis.demo.test.RedisDemoTest6 243 zcountTest 
+8
+2018-12-20 04:26:01.688 FATAL com.redis.jedis.demo.test.RedisDemoTest6 243 zcountTest 
+8
+2018-12-20 04:26:01.689 FATAL com.redis.jedis.demo.test.RedisDemoTest6 246 zcountTest 
+26
+2018-12-20 04:29:12.252 FATAL com.redis.jedis.demo.test.RedisDemoTest6 257 zremTest 
+删除成员的数量：7
+2018-12-20 04:31:31.440 FATAL com.redis.jedis.demo.test.RedisDemoTest6 269 zremrangeByRankTest 
+2
+2018-12-20 04:33:50.845 FATAL com.redis.jedis.demo.test.RedisDemoTest6 272 zremrangeByRankTest 
+2
+2018-12-20 04:46:13.332 FATAL com.redis.jedis.demo.test.RedisDemoTest6 282 zremrangeByScoreTest 
+1
+2018-12-20 04:46:13.333 FATAL com.redis.jedis.demo.test.RedisDemoTest6 285 zremrangeByScoreTest 
+3
+2018-12-20 05:10:46.433 FATAL com.redis.jedis.demo.test.RedisDemoTest6 299 zrankTest 
+5
+2018-12-20 05:11:23.329 FATAL com.redis.jedis.demo.test.RedisDemoTest6 313 zrevRankTest 
+9
+2018-12-20 06:22:46.557 FATAL com.redis.jedis.demo.test.RedisDemoTest7 153 renameTest 
+{stu001=67.5, stu005=88.45, stu0017=93.0}
+2018-12-20 06:22:46.559 FATAL com.redis.jedis.demo.test.RedisDemoTest7 165 renameTest 
+{stu001=67.5, stu005=88.45, stu0017=93.0}

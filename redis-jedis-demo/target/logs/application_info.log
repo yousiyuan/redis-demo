@@ -1,0 +1,593 @@
+2018-12-20 03:17:45.391 DEBUG com.redis.jedis.demo.test.RedisDemoTest5 26 setUp 
+单元测试
+2018-12-20 03:38:50.513 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:38:50.542 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:39:18.019 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:39:18.045 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:39:35.271 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:39:35.305 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:41:05.974 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:41:06.004 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:43:31.178 INFO  com.redis.jedis.demo.test.RedisDemoTest6 34 setUp 
+单元测试===》开始
+2018-12-20 03:43:31.206 INFO  com.redis.jedis.demo.test.RedisDemoTest6 42 tearDown 
+单元测试===》结束
+2018-12-20 03:45:07.319 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:45:07.346 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:47:00.407 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:47:00.432 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:47:12.855 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:47:12.880 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.397 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.418 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.419 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.420 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.421 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.430 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.431 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.435 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.435 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.437 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.437 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.438 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.439 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.441 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.441 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.443 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.443 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.445 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.446 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.448 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.448 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.451 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.452 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.453 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.454 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.455 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.455 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.459 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.460 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.467 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:48:20.468 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:48:20.470 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:49:31.152 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:49:31.182 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:55:58.969 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:55:58.999 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:56:55.724 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:56:55.749 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:57:38.334 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:57:38.359 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:58:57.191 DEBUG com.redis.jedis.demo.test.RedisDemoTest5 26 setUp 
+单元测试
+2018-12-20 03:59:11.674 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:59:11.701 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 03:59:45.649 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 03:59:45.679 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:04:22.147 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:04:22.178 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:08:24.130 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:08:24.161 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:09:43.361 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:09:43.403 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:10:56.826 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:10:56.856 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:11:30.103 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:11:30.139 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:19:45.246 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:19:45.269 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:20:32.947 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:20:32.966 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:22:31.443 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:22:31.464 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:25:00.697 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:25:00.720 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:25:18.195 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:25:18.217 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:26:01.666 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:26:01.690 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:29:12.235 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:29:12.253 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:31:31.422 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:31:31.440 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:33:50.823 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:33:50.846 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 04:46:13.312 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 04:46:13.334 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 05:10:46.416 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 05:10:46.434 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 05:11:23.312 INFO  com.redis.jedis.demo.test.RedisDemoTest6 33 setUp 
+单元测试===》开始
+2018-12-20 05:11:23.330 INFO  com.redis.jedis.demo.test.RedisDemoTest6 41 tearDown 
+单元测试===》结束
+2018-12-20 05:35:46.634 INFO  com.redis.jedis.demo.test.RedisDemoTest7 24 setUp 
+单元测试===》开始
+2018-12-20 05:36:01.656 INFO  com.redis.jedis.demo.test.RedisDemoTest7 32 tearDown 
+单元测试===》结束
+2018-12-20 05:37:28.158 INFO  com.redis.jedis.demo.test.RedisDemoTest7 24 setUp 
+单元测试===》开始
+2018-12-20 05:37:43.235 INFO  com.redis.jedis.demo.test.RedisDemoTest7 32 tearDown 
+单元测试===》结束
+2018-12-20 05:39:03.496 INFO  com.redis.jedis.demo.test.RedisDemoTest7 24 setUp 
+单元测试===》开始
+2018-12-20 05:39:18.880 INFO  com.redis.jedis.demo.test.RedisDemoTest7 32 tearDown 
+单元测试===》结束
+2018-12-20 05:41:37.923 INFO  com.redis.jedis.demo.test.RedisDemoTest7 24 setUp 
+单元测试===》开始
+2018-12-20 05:41:52.979 INFO  com.redis.jedis.demo.test.RedisDemoTest7 32 tearDown 
+单元测试===》结束
+2018-12-20 05:55:27.428 INFO  com.redis.jedis.demo.test.RedisDemoTest7 26 setUp 
+单元测试===》开始
+2018-12-20 05:55:27.457 INFO  com.redis.jedis.demo.test.RedisDemoTest7 34 tearDown 
+单元测试===》结束
+2018-12-20 05:58:35.118 INFO  com.redis.jedis.demo.test.RedisDemoTest7 26 setUp 
+单元测试===》开始
+2018-12-20 05:58:35.145 INFO  com.redis.jedis.demo.test.RedisDemoTest7 34 tearDown 
+单元测试===》结束
+2018-12-20 06:02:15.669 INFO  com.redis.jedis.demo.test.RedisDemoTest7 26 setUp 
+单元测试===》开始
+2018-12-20 06:02:15.693 INFO  com.redis.jedis.demo.test.RedisDemoTest7 34 tearDown 
+单元测试===》结束
+2018-12-20 06:02:25.283 INFO  com.redis.jedis.demo.test.RedisDemoTest7 26 setUp 
+单元测试===》开始
+2018-12-20 06:02:25.307 INFO  com.redis.jedis.demo.test.RedisDemoTest7 34 tearDown 
+单元测试===》结束
+2018-12-20 06:05:43.471 INFO  com.redis.jedis.demo.test.RedisDemoTest7 26 setUp 
+单元测试===》开始
+2018-12-20 06:05:43.496 DEBUG com.redis.jedis.demo.test.RedisDemoTest7 77 keysTest 
+获取所有的键：[]
+2018-12-20 06:05:43.497 INFO  com.redis.jedis.demo.test.RedisDemoTest7 34 tearDown 
+单元测试===》结束
+2018-12-20 06:06:22.090 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:06:22.115 DEBUG com.redis.jedis.demo.test.RedisDemoTest7 74 keysTest 
+获取所有的键：[students, person]
+2018-12-20 06:06:22.116 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:06:45.023 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:06:45.049 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:07:07.126 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:07:07.151 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:07:20.472 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:07:20.500 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:08:41.396 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:08:41.422 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:08:59.810 INFO  com.redis.jedis.demo.test.RedisDemoTest7 25 setUp 
+单元测试===》开始
+2018-12-20 06:08:59.838 INFO  com.redis.jedis.demo.test.RedisDemoTest7 33 tearDown 
+单元测试===》结束
+2018-12-20 06:22:46.526 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:22:46.560 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:23:48.492 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:23:48.522 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:23:55.945 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:23:55.986 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:24:55.080 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:24:55.108 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:35:49.516 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:35:49.544 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:36:15.506 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:36:15.535 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 06:36:22.096 INFO  com.redis.jedis.demo.test.RedisDemoTest7 28 setUp 
+单元测试===》开始
+2018-12-20 06:36:22.118 INFO  com.redis.jedis.demo.test.RedisDemoTest7 36 tearDown 
+单元测试===》结束
+2018-12-20 07:20:29.385 INFO  com.redis.jedis.demo.test.RedisDemoTest8 54 setUp 
+单元测试===》开始
+2018-12-20 07:20:29.401 INFO  com.redis.jedis.demo.test.RedisDemoTest8 141 infoTest 
+# Server
+redis_version:5.0.3
+redis_git_sha1:00000000
+redis_git_dirty:0
+redis_build_id:744baf18ce75a728
+redis_mode:standalone
+os:Linux 3.10.0-862.el7.x86_64 x86_64
+arch_bits:64
+multiplexing_api:epoll
+atomicvar_api:atomic-builtin
+gcc_version:4.8.5
+process_id:1358
+run_id:1974f1f09ac3500beed8bb0467142a42d61c1f36
+tcp_port:6380
+uptime_in_seconds:34687
+uptime_in_days:0
+hz:10
+configured_hz:10
+lru_clock:1757754
+executable:/usr/local/redis/./bin/redis-server
+config_file:/usr/local/redis/./6380/redis.conf
+
+# Clients
+connected_clients:2
+client_recent_max_input_buffer:2
+client_recent_max_output_buffer:0
+blocked_clients:0
+
+# Memory
+used_memory:877120
+used_memory_human:856.56K
+used_memory_rss:10817536
+used_memory_rss_human:10.32M
+used_memory_peak:877120
+used_memory_peak_human:856.56K
+used_memory_peak_perc:100.14%
+used_memory_overhead:858992
+used_memory_startup:792040
+used_memory_dataset:18128
+used_memory_dataset_perc:21.31%
+allocator_allocated:890232
+allocator_active:1097728
+allocator_resident:4960256
+total_system_memory:3974303744
+total_system_memory_human:3.70G
+used_memory_lua:37888
+used_memory_lua_human:37.00K
+used_memory_scripts:0
+used_memory_scripts_human:0B
+number_of_cached_scripts:0
+maxmemory:0
+maxmemory_human:0B
+maxmemory_policy:noeviction
+allocator_frag_ratio:1.23
+allocator_frag_bytes:207496
+allocator_rss_ratio:4.52
+allocator_rss_bytes:3862528
+rss_overhead_ratio:2.18
+rss_overhead_bytes:5857280
+mem_fragmentation_ratio:13.29
+mem_fragmentation_bytes:10003576
+mem_not_counted_for_evict:0
+mem_replication_backlog:0
+mem_clients_slaves:0
+mem_clients_normal:66616
+mem_aof_buffer:0
+mem_allocator:jemalloc-5.1.0
+active_defrag_running:0
+lazyfree_pending_objects:0
+
+# Persistence
+loading:0
+rdb_changes_since_last_save:0
+rdb_bgsave_in_progress:0
+rdb_last_save_time:1545258973
+rdb_last_bgsave_status:ok
+rdb_last_bgsave_time_sec:0
+rdb_current_bgsave_time_sec:-1
+rdb_last_cow_size:4501504
+aof_enabled:0
+aof_rewrite_in_progress:0
+aof_rewrite_scheduled:0
+aof_last_rewrite_time_sec:-1
+aof_current_rewrite_time_sec:-1
+aof_last_bgrewrite_status:ok
+aof_last_write_status:ok
+aof_last_cow_size:0
+
+# Stats
+total_connections_received:621
+total_commands_processed:37516
+instantaneous_ops_per_sec:0
+total_net_input_bytes:875317
+total_net_output_bytes:205338
+instantaneous_input_kbps:0.00
+instantaneous_output_kbps:0.00
+rejected_connections:0
+sync_full:0
+sync_partial_ok:0
+sync_partial_err:0
+expired_keys:5
+expired_stale_perc:0.00
+expired_time_cap_reached_count:0
+evicted_keys:0
+keyspace_hits:36299
+keyspace_misses:21
+pubsub_channels:0
+pubsub_patterns:0
+latest_fork_usec:491
+migrate_cached_sockets:0
+slave_expires_tracked_keys:0
+active_defrag_hits:0
+active_defrag_misses:0
+active_defrag_key_hits:0
+active_defrag_key_misses:0
+
+# Replication
+role:master
+connected_slaves:0
+master_replid:637f62f5bcac6a2ff1d7eeb4cb8b30b1a5cae4d2
+master_replid2:0000000000000000000000000000000000000000
+master_repl_offset:0
+second_repl_offset:-1
+repl_backlog_active:0
+repl_backlog_size:1048576
+repl_backlog_first_byte_offset:0
+repl_backlog_histlen:0
+
+# CPU
+used_cpu_sys:52.485924
+used_cpu_user:55.378224
+used_cpu_sys_children:0.166067
+used_cpu_user_children:0.027257
+
+# Cluster
+cluster_enabled:0
+
+# Keyspace
+db13:keys=6,expires=0,avg_ttl=0
+
+2018-12-20 07:20:29.403 INFO  com.redis.jedis.demo.test.RedisDemoTest8 62 tearDown 
+单元测试===》结束
+2018-12-20 07:21:38.021 INFO  com.redis.jedis.demo.test.RedisDemoTest8 54 setUp 
+单元测试===》开始
+2018-12-20 07:21:38.045 INFO  com.redis.jedis.demo.test.RedisDemoTest8 141 infoTest 
+# Server
+redis_version:5.0.3
+redis_git_sha1:00000000
+redis_git_dirty:0
+redis_build_id:744baf18ce75a728
+redis_mode:standalone
+os:Linux 3.10.0-862.el7.x86_64 x86_64
+arch_bits:64
+multiplexing_api:epoll
+atomicvar_api:atomic-builtin
+gcc_version:4.8.5
+process_id:1358
+run_id:1974f1f09ac3500beed8bb0467142a42d61c1f36
+tcp_port:6380
+uptime_in_seconds:34756
+uptime_in_days:0
+hz:10
+configured_hz:10
+lru_clock:1757823
+executable:/usr/local/redis/./bin/redis-server
+config_file:/usr/local/redis/./6380/redis.conf
+
+# Clients
+connected_clients:2
+client_recent_max_input_buffer:2
+client_recent_max_output_buffer:0
+blocked_clients:0
+
+# Memory
+used_memory:877120
+used_memory_human:856.56K
+used_memory_rss:10817536
+used_memory_rss_human:10.32M
+used_memory_peak:877120
+used_memory_peak_human:856.56K
+used_memory_peak_perc:100.00%
+used_memory_overhead:858992
+used_memory_startup:792040
+used_memory_dataset:18128
+used_memory_dataset_perc:21.31%
+allocator_allocated:948856
+allocator_active:1216512
+allocator_resident:4972544
+total_system_memory:3974303744
+total_system_memory_human:3.70G
+used_memory_lua:37888
+used_memory_lua_human:37.00K
+used_memory_scripts:0
+used_memory_scripts_human:0B
+number_of_cached_scripts:0
+maxmemory:0
+maxmemory_human:0B
+maxmemory_policy:noeviction
+allocator_frag_ratio:1.28
+allocator_frag_bytes:267656
+allocator_rss_ratio:4.09
+allocator_rss_bytes:3756032
+rss_overhead_ratio:2.18
+rss_overhead_bytes:5844992
+mem_fragmentation_ratio:13.29
+mem_fragmentation_bytes:10003576
+mem_not_counted_for_evict:0
+mem_replication_backlog:0
+mem_clients_slaves:0
+mem_clients_normal:66616
+mem_aof_buffer:0
+mem_allocator:jemalloc-5.1.0
+active_defrag_running:0
+lazyfree_pending_objects:0
+
+# Persistence
+loading:0
+rdb_changes_since_last_save:0
+rdb_bgsave_in_progress:0
+rdb_last_save_time:1545258973
+rdb_last_bgsave_status:ok
+rdb_last_bgsave_time_sec:0
+rdb_current_bgsave_time_sec:-1
+rdb_last_cow_size:4501504
+aof_enabled:0
+aof_rewrite_in_progress:0
+aof_rewrite_scheduled:0
+aof_last_rewrite_time_sec:-1
+aof_current_rewrite_time_sec:-1
+aof_last_bgrewrite_status:ok
+aof_last_write_status:ok
+aof_last_cow_size:0
+
+# Stats
+total_connections_received:622
+total_commands_processed:37518
+instantaneous_ops_per_sec:0
+total_net_input_bytes:875355
+total_net_output_bytes:208699
+instantaneous_input_kbps:0.00
+instantaneous_output_kbps:0.00
+rejected_connections:0
+sync_full:0
+sync_partial_ok:0
+sync_partial_err:0
+expired_keys:5
+expired_stale_perc:0.00
+expired_time_cap_reached_count:0
+evicted_keys:0
+keyspace_hits:36299
+keyspace_misses:21
+pubsub_channels:0
+pubsub_patterns:0
+latest_fork_usec:491
+migrate_cached_sockets:0
+slave_expires_tracked_keys:0
+active_defrag_hits:0
+active_defrag_misses:0
+active_defrag_key_hits:0
+active_defrag_key_misses:0
+
+# Replication
+role:master
+connected_slaves:0
+master_replid:637f62f5bcac6a2ff1d7eeb4cb8b30b1a5cae4d2
+master_replid2:0000000000000000000000000000000000000000
+master_repl_offset:0
+second_repl_offset:-1
+repl_backlog_active:0
+repl_backlog_size:1048576
+repl_backlog_first_byte_offset:0
+repl_backlog_histlen:0
+
+# CPU
+used_cpu_sys:52.593943
+used_cpu_user:55.491180
+used_cpu_sys_children:0.166067
+used_cpu_user_children:0.027257
+
+# Cluster
+cluster_enabled:0
+
+# Keyspace
+db13:keys=6,expires=0,avg_ttl=0
+
+2018-12-20 07:21:38.047 INFO  com.redis.jedis.demo.test.RedisDemoTest8 144 infoTest 
+# CPU
+used_cpu_sys:52.594285
+used_cpu_user:55.491180
+used_cpu_sys_children:0.166067
+used_cpu_user_children:0.027257
+
+2018-12-20 07:21:38.047 INFO  com.redis.jedis.demo.test.RedisDemoTest8 62 tearDown 
+单元测试===》结束
+2018-12-20 17:31:58.304 INFO  com.redis.jedis.demo.test.RedisDemoTest8 54 setUp 
+单元测试===》开始
+2018-12-20 17:31:58.334 INFO  com.redis.jedis.demo.test.RedisDemoTest8 116 dbsizeTest 
+6
+2018-12-20 17:31:58.335 INFO  com.redis.jedis.demo.test.RedisDemoTest8 62 tearDown 
+单元测试===》结束
+2018-12-20 17:32:55.053 INFO  com.redis.jedis.demo.test.RedisDemoTest8 54 setUp 
+单元测试===》开始
+2018-12-20 17:32:55.075 INFO  com.redis.jedis.demo.test.RedisDemoTest8 75 pingTest 
+PONG
+2018-12-20 17:32:55.075 INFO  com.redis.jedis.demo.test.RedisDemoTest8 62 tearDown 
+单元测试===》结束
