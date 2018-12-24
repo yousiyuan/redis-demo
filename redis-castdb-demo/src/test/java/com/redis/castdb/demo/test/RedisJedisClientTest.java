@@ -27,7 +27,7 @@ public class RedisJedisClientTest {
 	@Before
 	public void setUp() throws Exception {
 		logger.debug("单元测试--->>开始");
-		redisClient = new RedisJedisClient.Builder("192.168.1.106", 6379)
+		redisClient = new RedisJedisClient.Builder("192.168.1.108", 6379)
 				.selectDataBase(10)
 				.setMaxIdle(30)
 				.setMinIdle(10)
@@ -418,7 +418,7 @@ public class RedisJedisClientTest {
 	}
 
 	/**
-	 * 向数据库表新增一条记录
+	 * 向redis数据库新增一条表记录
 	 */
 	@Test
 	public void saveObjectTest() {
@@ -439,6 +439,27 @@ public class RedisJedisClientTest {
 		map.put("store", "10000");
 		map.put("buydate", "2018-12-21");
 		redisClient.saveObject(map, "products", pkFieldValue);
+	}
+
+	/**
+	 * 从redis数据库删除一条表记录
+	 */
+	@Test
+	public void deleteObjectTest() {
+		// 定义主键字段名
+		String tableName = "TeamMember";
+		String pkFieldName = "UserId";
+		// 定义主键字段值
+		String pkFieldValue = "33";
+		// 从外键表删除指定的行记录
+		redisClient.deleteObject(tableName, pkFieldName, pkFieldValue);
+
+		// 删除外键关系
+		String pkTableName = "FootballTeam";
+		String fkTableName = "TeamMember";
+		String fkValue = "2";
+		String fkTableId = "33";
+		redisClient.deleteForeignKeyRelation(pkTableName, fkTableName, fkValue, fkTableId);
 	}
 
 	/**

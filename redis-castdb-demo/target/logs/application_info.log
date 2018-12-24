@@ -1,74 +1,28 @@
-2018-12-21 17:19:04.994 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
+2018-12-24 13:39:38.083 INFO  com.redis.cluster.demo.test.JedisClusterTest 51 test 
+test
+2018-12-24 13:41:12.380 INFO  com.redis.cluster.demo.test.JedisClusterTest 51 test 
+流年公子
+2018-12-24 13:41:15.368 INFO  com.redis.cluster.demo.test.JedisClusterTest 55 test 
+我是流年公子
+2018-12-24 13:44:49.166 INFO  com.redis.cluster.demo.test.JedisClusterTest 56 test 
+我是流年公子
+2018-12-24 13:44:52.320 INFO  com.redis.cluster.demo.test.JedisClusterTest 60 test 
+我是流年公子
+2018-12-24 13:44:56.195 INFO  com.redis.cluster.demo.test.JedisClusterTest 66 test 
+{192.168.1.108:6379=redis.clients.jedis.JedisPool@10b9db7b, 192.168.1.108:6383=redis.clients.jedis.JedisPool@9ef8eb7, 192.168.1.108:6382=redis.clients.jedis.JedisPool@34cdeda2, 192.168.1.108:6384=redis.clients.jedis.JedisPool@6ee660fb, 192.168.1.108:6381=redis.clients.jedis.JedisPool@305a0c5f, 192.168.1.108:6380=redis.clients.jedis.JedisPool@4535b6d5}
+2018-12-24 14:03:59.129 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
 单元测试--->>开始
-2018-12-21 17:19:05.168 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
+2018-12-24 14:03:59.292 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
 单元测试--->>结束
-2018-12-21 17:20:12.253 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
+2018-12-24 14:04:05.587 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
 单元测试--->>开始
-2018-12-21 17:20:12.394 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
+2018-12-24 14:04:05.716 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
 单元测试--->>结束
-2018-12-21 17:20:55.870 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
+2018-12-24 14:05:59.766 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
 单元测试--->>开始
-2018-12-21 17:20:55.914 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
+2018-12-24 14:05:59.903 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
 单元测试--->>结束
-2018-12-21 17:21:12.439 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
+2018-12-24 16:16:45.002 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
 单元测试--->>开始
-2018-12-21 17:21:12.574 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:21:54.714 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:21:54.765 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 473 queryPrimaryKeyListTest 
-[1, 2, 3]
-2018-12-21 17:21:54.766 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 476 queryPrimaryKeyListTest 
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
-2018-12-21 17:21:54.767 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:22:10.233 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:22:10.282 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 485 queryForMapObjectTest 
-{teamName=龙之魂, teamId=2, teamAddress=中国}
-2018-12-21 17:22:10.283 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 488 queryForMapObjectTest 
-{birthday=Mon Jul 07 00:00:00 CDT 1986, userAddress=中国, userName=孙七, gender=1, userId=29, teamId=2}
-2018-12-21 17:22:10.283 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:22:29.709 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:22:29.839 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 497 queryForObjectTest 
-{"teamId":2,"teamName":"龙之魂","teamAddress":"中国"}
-2018-12-21 17:22:29.850 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 500 queryForObjectTest 
-{"userName":"Thomas Hardy","teamId":3,"userId":15,"userAddress":"巴西","birthday":"1986-04-05","gender":1}
-2018-12-21 17:22:29.850 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:23:12.461 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:23:12.551 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 509 queryForMapListTest 
-[{"teamName":"公牛","teamId":"1","teamAddress":"芝加哥"},{"teamName":"龙之魂","teamId":"2","teamAddress":"中国"},{"teamName":"足球梦","teamId":"3","teamAddress":"巴西"}]
-2018-12-21 17:23:12.578 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 513 queryForMapListTest 
-[{"birthday":"Sun Jan 01 00:00:00 CST 1989","userAddress":"芝加哥","userName":"Davolio","gender":"1","userId":"1","teamId":"1"},{"birthday":"Tue Feb 11 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Fuller","gender":"1","userId":"2","teamId":"1"},{"birthday":"Fri Mar 21 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Leverling","gender":"1","userId":"3","teamId":"1"},{"birthday":"Sat Apr 05 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Peacock","gender":"1","userId":"4","teamId":"1"},{"birthday":"Thu May 15 00:00:00 CDT 1986","userAddress":"芝加哥","userName":"Buchanan","gender":"1","userId":"5","teamId":"1"},{"birthday":"Wed Jun 25 00:00:00 CDT 1986","userAddress":"芝加哥","userName":"Suyama","gender":"1","userId":"6","teamId":"1"},{"birthday":"Mon Jul 07 00:00:00 CDT 1986","userAddress":"芝加哥","userName":"King","gender":"1","userId":"7","teamId":"1"},{"birthday":"Sun Aug 17 00:00:00 CDT 1986","userAddress":"芝加哥","userName":"Callahan","gender":"1","userId":"8","teamId":"1"},{"birthday":"Sat Sep 27 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Dodsworth","gender":"1","userId":"9","teamId":"1"},{"birthday":"Sun Oct 19 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Green","gender":"1","userId":"10","teamId":"1"},{"birthday":"Sat Nov 29 00:00:00 CST 1986","userAddress":"芝加哥","userName":"Jaina","gender":"1","userId":"11","teamId":"1"},{"birthday":"Sun Jan 01 00:00:00 CST 1989","userAddress":"巴西","userName":"Maria Anders","gender":"1","userId":"12","teamId":"3"},{"birthday":"Tue Feb 11 00:00:00 CST 1986","userAddress":"巴西","userName":"Ana Trujillo","gender":"1","userId":"13","teamId":"3"},{"birthday":"Fri Mar 21 00:00:00 CST 1986","userAddress":"巴西","userName":"Antonio Moreno","gender":"1","userId":"14","teamId":"3"},{"birthday":"Sat Apr 05 00:00:00 CST 1986","userAddress":"巴西","userName":"Thomas Hardy","gender":"1","userId":"15","teamId":"3"},{"birthday":"Thu May 15 00:00:00 CDT 1986","userAddress":"巴西","userName":"Christina Berglund","gender":"1","userId":"16","teamId":"3"},{"birthday":"Wed Jun 25 00:00:00 CDT 1986","userAddress":"巴西","userName":"Hanna Moos","gender":"1","userId":"17","teamId":"3"},{"birthday":"Mon Jul 07 00:00:00 CDT 1986","userAddress":"巴西","userName":"Martín Sommer","gender":"1","userId":"18","teamId":"3"},{"birthday":"Sun Aug 17 00:00:00 CDT 1986","userAddress":"巴西","userName":"Laurence Lebihan","gender":"1","userId":"19","teamId":"3"},{"birthday":"Sat Sep 27 00:00:00 CST 1986","userAddress":"巴西","userName":"Elizabeth Lincoln","gender":"1","userId":"20","teamId":"3"},{"birthday":"Sun Oct 19 00:00:00 CST 1986","userAddress":"巴西","userName":"Victoria Ashworth","gender":"1","userId":"21","teamId":"3"},{"birthday":"Sat Nov 29 00:00:00 CST 1986","userAddress":"巴西","userName":"Patricio Simpson","gender":"1","userId":"22","teamId":"3"},{"birthday":"Sun Jan 01 00:00:00 CST 1989","userAddress":"中国","userName":"刘一","gender":"1","userId":"23","teamId":"2"},{"birthday":"Tue Feb 11 00:00:00 CST 1986","userAddress":"中国","userName":"陈二","gender":"1","userId":"24","teamId":"2"},{"birthday":"Fri Mar 21 00:00:00 CST 1986","userAddress":"中国","userName":"张三","gender":"1","userId":"25","teamId":"2"},{"birthday":"Sat Apr 05 00:00:00 CST 1986","userAddress":"中国","userName":"李四","gender":"1","userId":"26","teamId":"2"},{"birthday":"Thu May 15 00:00:00 CDT 1986","userAddress":"中国","userName":"王五","gender":"1","userId":"27","teamId":"2"},{"birthday":"Wed Jun 25 00:00:00 CDT 1986","userAddress":"中国","userName":"赵六","gender":"1","userId":"28","teamId":"2"},{"birthday":"Mon Jul 07 00:00:00 CDT 1986","userAddress":"中国","userName":"孙七","gender":"1","userId":"29","teamId":"2"},{"birthday":"Sun Aug 17 00:00:00 CDT 1986","userAddress":"中国","userName":"周八","gender":"1","userId":"30","teamId":"2"},{"birthday":"Sat Sep 27 00:00:00 CST 1986","userAddress":"中国","userName":"吴九","gender":"1","userId":"31","teamId":"2"},{"birthday":"Sun Oct 19 00:00:00 CST 1986","userAddress":"中国","userName":"郑十","gender":"1","userId":"32","teamId":"2"},{"birthday":"Sat Nov 29 00:00:00 CST 1986","userAddress":"中国","userName":"上官婉儿","gender":"0","userId":"33","teamId":"2"}]
-2018-12-21 17:23:12.579 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:23:23.045 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:23:23.171 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 523 queryForListTest 
-[{"teamId":1,"teamName":"公牛","teamAddress":"芝加哥"}, {"teamId":2,"teamName":"龙之魂","teamAddress":"中国"}, {"teamId":3,"teamName":"足球梦","teamAddress":"巴西"}]
-2018-12-21 17:23:23.215 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 526 queryForListTest 
-[{"userAddress":"芝加哥","userName":"Davolio","userId":1,"teamId":1,"birthday":"1989-01-01","gender":1}, {"userAddress":"芝加哥","userName":"Fuller","userId":2,"teamId":1,"birthday":"1986-02-11","gender":1}, {"userAddress":"芝加哥","userName":"Leverling","userId":3,"teamId":1,"birthday":"1986-03-21","gender":1}, {"userAddress":"芝加哥","userName":"Peacock","userId":4,"teamId":1,"birthday":"1986-04-05","gender":1}, {"userAddress":"芝加哥","userName":"Buchanan","userId":5,"teamId":1,"birthday":"1986-05-15","gender":1}, {"userAddress":"芝加哥","userName":"Suyama","userId":6,"teamId":1,"birthday":"1986-06-25","gender":1}, {"userAddress":"芝加哥","userName":"King","userId":7,"teamId":1,"birthday":"1986-07-07","gender":1}, {"userAddress":"芝加哥","userName":"Callahan","userId":8,"teamId":1,"birthday":"1986-08-17","gender":1}, {"userAddress":"芝加哥","userName":"Dodsworth","userId":9,"teamId":1,"birthday":"1986-09-27","gender":1}, {"userAddress":"芝加哥","userName":"Green","userId":10,"teamId":1,"birthday":"1986-10-19","gender":1}, {"userAddress":"芝加哥","userName":"Jaina","userId":11,"teamId":1,"birthday":"1986-11-29","gender":1}, {"userAddress":"巴西","userName":"Maria Anders","userId":12,"teamId":3,"birthday":"1989-01-01","gender":1}, {"userAddress":"巴西","userName":"Ana Trujillo","userId":13,"teamId":3,"birthday":"1986-02-11","gender":1}, {"userAddress":"巴西","userName":"Antonio Moreno","userId":14,"teamId":3,"birthday":"1986-03-21","gender":1}, {"userAddress":"巴西","userName":"Thomas Hardy","userId":15,"teamId":3,"birthday":"1986-04-05","gender":1}, {"userAddress":"巴西","userName":"Christina Berglund","userId":16,"teamId":3,"birthday":"1986-05-15","gender":1}, {"userAddress":"巴西","userName":"Hanna Moos","userId":17,"teamId":3,"birthday":"1986-06-25","gender":1}, {"userAddress":"巴西","userName":"Martín Sommer","userId":18,"teamId":3,"birthday":"1986-07-07","gender":1}, {"userAddress":"巴西","userName":"Laurence Lebihan","userId":19,"teamId":3,"birthday":"1986-08-17","gender":1}, {"userAddress":"巴西","userName":"Elizabeth Lincoln","userId":20,"teamId":3,"birthday":"1986-09-27","gender":1}, {"userAddress":"巴西","userName":"Victoria Ashworth","userId":21,"teamId":3,"birthday":"1986-10-19","gender":1}, {"userAddress":"巴西","userName":"Patricio Simpson","userId":22,"teamId":3,"birthday":"1986-11-29","gender":1}, {"userAddress":"中国","userName":"刘一","userId":23,"teamId":2,"birthday":"1989-01-01","gender":1}, {"userAddress":"中国","userName":"陈二","userId":24,"teamId":2,"birthday":"1986-02-11","gender":1}, {"userAddress":"中国","userName":"张三","userId":25,"teamId":2,"birthday":"1986-03-21","gender":1}, {"userAddress":"中国","userName":"李四","userId":26,"teamId":2,"birthday":"1986-04-05","gender":1}, {"userAddress":"中国","userName":"王五","userId":27,"teamId":2,"birthday":"1986-05-15","gender":1}, {"userAddress":"中国","userName":"赵六","userId":28,"teamId":2,"birthday":"1986-06-25","gender":1}, {"userAddress":"中国","userName":"孙七","userId":29,"teamId":2,"birthday":"1986-07-07","gender":1}, {"userAddress":"中国","userName":"周八","userId":30,"teamId":2,"birthday":"1986-08-17","gender":1}, {"userAddress":"中国","userName":"吴九","userId":31,"teamId":2,"birthday":"1986-09-27","gender":1}, {"userAddress":"中国","userName":"郑十","userId":32,"teamId":2,"birthday":"1986-10-19","gender":1}, {"userAddress":"中国","userName":"上官婉儿","userId":33,"teamId":2,"birthday":"1986-11-29","gender":0}]
-2018-12-21 17:23:23.216 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:23:35.835 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:23:35.970 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 540 getTeamInfoTest 
-{"teamId":2,"teamName":"龙之魂","teamAddress":"中国"}
-2018-12-21 17:23:35.970 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:23:48.481 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:23:48.586 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 549 queryForMapListTest2 
-[{"birthday":"Sun Jan 01 00:00:00 CST 1989","userAddress":"中国","userName":"刘一","gender":"1","userId":"23","teamId":"2"},{"birthday":"Tue Feb 11 00:00:00 CST 1986","userAddress":"中国","userName":"陈二","gender":"1","userId":"24","teamId":"2"},{"birthday":"Fri Mar 21 00:00:00 CST 1986","userAddress":"中国","userName":"张三","gender":"1","userId":"25","teamId":"2"},{"birthday":"Sat Apr 05 00:00:00 CST 1986","userAddress":"中国","userName":"李四","gender":"1","userId":"26","teamId":"2"},{"birthday":"Thu May 15 00:00:00 CDT 1986","userAddress":"中国","userName":"王五","gender":"1","userId":"27","teamId":"2"},{"birthday":"Wed Jun 25 00:00:00 CDT 1986","userAddress":"中国","userName":"赵六","gender":"1","userId":"28","teamId":"2"},{"birthday":"Mon Jul 07 00:00:00 CDT 1986","userAddress":"中国","userName":"孙七","gender":"1","userId":"29","teamId":"2"},{"birthday":"Sun Aug 17 00:00:00 CDT 1986","userAddress":"中国","userName":"周八","gender":"1","userId":"30","teamId":"2"},{"birthday":"Sat Sep 27 00:00:00 CST 1986","userAddress":"中国","userName":"吴九","gender":"1","userId":"31","teamId":"2"},{"birthday":"Sun Oct 19 00:00:00 CST 1986","userAddress":"中国","userName":"郑十","gender":"1","userId":"32","teamId":"2"},{"birthday":"Sat Nov 29 00:00:00 CST 1986","userAddress":"中国","userName":"上官婉儿","gender":"0","userId":"33","teamId":"2"}]
-2018-12-21 17:23:48.587 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
-单元测试--->>结束
-2018-12-21 17:23:59.617 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 29 setUp 
-单元测试--->>开始
-2018-12-21 17:23:59.751 INFO  com.redis.castdb.demo.test.RedisJedisClientTest 559 queryForListTest2 
-[{"userName":"Davolio","userId":1,"teamId":1,"birthday":"1989-01-01","gender":1,"userAddress":"芝加哥"}, {"userName":"Fuller","userId":2,"teamId":1,"birthday":"1986-02-11","gender":1,"userAddress":"芝加哥"}, {"userName":"Leverling","userId":3,"teamId":1,"birthday":"1986-03-21","gender":1,"userAddress":"芝加哥"}, {"userName":"Peacock","userId":4,"teamId":1,"birthday":"1986-04-05","gender":1,"userAddress":"芝加哥"}, {"userName":"Buchanan","userId":5,"teamId":1,"birthday":"1986-05-15","gender":1,"userAddress":"芝加哥"}, {"userName":"Suyama","userId":6,"teamId":1,"birthday":"1986-06-25","gender":1,"userAddress":"芝加哥"}, {"userName":"King","userId":7,"teamId":1,"birthday":"1986-07-07","gender":1,"userAddress":"芝加哥"}, {"userName":"Callahan","userId":8,"teamId":1,"birthday":"1986-08-17","gender":1,"userAddress":"芝加哥"}, {"userName":"Dodsworth","userId":9,"teamId":1,"birthday":"1986-09-27","gender":1,"userAddress":"芝加哥"}, {"userName":"Green","userId":10,"teamId":1,"birthday":"1986-10-19","gender":1,"userAddress":"芝加哥"}, {"userName":"Jaina","userId":11,"teamId":1,"birthday":"1986-11-29","gender":1,"userAddress":"芝加哥"}]
-2018-12-21 17:23:59.751 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
+2018-12-24 16:19:38.458 DEBUG com.redis.castdb.demo.test.RedisJedisClientTest 40 tearDown 
 单元测试--->>结束

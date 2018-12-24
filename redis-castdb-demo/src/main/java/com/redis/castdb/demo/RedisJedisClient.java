@@ -100,7 +100,8 @@ public class RedisJedisClient {
 	}
 
 	/**
-	 * 主键表(tableNamePK)的主键字段fkValue在外键表(tableNameFK)中做外键，外键表(tableNameFK)有一个依赖表(tableNamePK)的字段fkValue。
+	 * 主键表(tableNamePK)的主键字段fkValue在外键表(tableNameFK)中做外键，
+	 * 外键表(tableNameFK)有一个依赖表(tableNamePK)的字段fkValue。
 	 * 
 	 * @param pkTableName
 	 *            主键表的名称
@@ -118,7 +119,8 @@ public class RedisJedisClient {
 	}
 
 	/**
-	 * 主键表(tableNamePK)的主键字段fkValue在外键表(tableNameFK)中做外键，外键表(tableNameFK)有一个依赖表(tableNamePK)的字段fkValue。
+	 * 主键表(tableNamePK)的主键字段fkValue在外键表(tableNameFK)中做外键，
+	 * 外键表(tableNameFK)有一个依赖表(tableNamePK)的字段fkValue。
 	 * 
 	 * @param pkTableName
 	 *            主键表的名称
@@ -180,6 +182,41 @@ public class RedisJedisClient {
 	}
 
 	/**
+	 * 删除外键关系
+	 * 
+	 * @param pkTableName
+	 *            主键表名称
+	 * @param fkTableName
+	 *            外键表名称
+	 * @param fkValue
+	 *            外键字段值
+	 * @param fkTableId
+	 *            外键表的主键字段值
+	 */
+	public void deleteForeignKeyRelation(String pkTableName, String fkTableName, String fkValue, String fkTableId) {
+		String key = MessageFormat.format("{0}:{1}:{2}", pkTableName, fkValue, fkTableName);
+		jedis.lrem(key, 0, fkTableId);// 删除对应的外键关系
+	}
+
+	/**
+	 * 删除一条记录
+	 * 
+	 * @param tableName
+	 *            数据库表名
+	 * @param pkFieldName
+	 *            数据库表主键字段名
+	 * @param pkFieldValue
+	 *            数据库表主键字段值
+	 */
+	public void deleteObject(String tableName, String pkFieldName, String pkFieldValue) {
+		String pkListKey = MessageFormat.format("{0}:{1}", tableName, pkFieldName);
+		jedis.lrem(pkListKey, 0, pkFieldValue);// 删除对应的主键信息
+
+		String key = MessageFormat.format("{0}:{1}", tableName, pkFieldValue);
+		jedis.del(key);// 删除主键对应的数据集
+	}
+
+	/**
 	 * 获取主键集合
 	 * 
 	 * @param tableName
@@ -204,6 +241,7 @@ public class RedisJedisClient {
 	 * @return 返回 Field-Value 对集合
 	 */
 	public Map<String, String> queryForObject(String tableName, String pkFieldValue) {
+
 		String key = MessageFormat.format("{0}:{1}", tableName, pkFieldValue);
 		Map<String, String> fieldValue = jedis.hgetAll(key);
 		return fieldValue;
